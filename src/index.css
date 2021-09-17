@@ -85,6 +85,15 @@ body{
   padding-top: 6px;
   padding-left: 6px;
 }
+
+.color{
+  height: 20px;
+  width: 20px;
+  opacity: 0.8;
+  padding-top: 6px;
+  padding-left: 6px;
+}
+
 .nav-home:hover, .nav-trash:hover{
   background-color: #feefc3;
 }
@@ -131,6 +140,8 @@ body{
 .take-notes1 button:hover{
   background-color: rgb(240, 238, 238); 
 }
+
+
 .icon{
   height: 14px;
   width: 14px;
